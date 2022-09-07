@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://t.me/Kromus275" target="_blank">Kromus</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Novice front-end developer from Russia 🇷🇺</h3>
 
 <!--
 **Kromus22/Kromus22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
