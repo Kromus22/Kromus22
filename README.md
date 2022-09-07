@@ -10,7 +10,7 @@
 <li>Затем прошёл обучение JS и TS, а также библиотеке React (+ сопутствующим библиотекам, например Redux).</li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kromus22&langs_count=6)](https://github.com/Kromus22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kromus22&langs_count=8)](https://github.com/Kromus22/github-readme-stats)
 
 <!--
 **Kromus22/Kromus22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
