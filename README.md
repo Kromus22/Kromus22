@@ -9,6 +9,7 @@
 <li>По мере продвижения старался выполнять несложные тренировочные проекты по вёрстке и JS.</li>
 <li>Затем прошёл обучение JS и TS, а также библиотеке React (+ сопутствующим библиотекам, например Redux).</li>
 </ul>
+Мой стек: HTML, CSS, SASS, JS, React, TS.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kromus22&langs_count=8)](https://github.com/Kromus22/github-readme-stats)
 [![codewars](https://www.codewars.com/users/Kromus22/badges/large)](https://www.codewars.com/users/Kromus22)   
